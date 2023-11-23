@@ -7,6 +7,7 @@ public class Car {
     private final String model;
     private final String color;
     private final Integer year;
+    
     private final Double price;
 
     public Car(
